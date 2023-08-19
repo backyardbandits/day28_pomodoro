@@ -27,7 +27,5 @@ canvas.create_text(100, 130, text="00:00", fill="white", font=(FONT_NAME,35,"bol
 canvas.pack()
 
 
-
-
 # ----------------------------------------------------------- #
 window.mainloop()
